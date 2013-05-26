@@ -1,5 +1,7 @@
 #Shortcat - Killing mice, one at a time.
 
+[![Build Status](https://travis-ci.org/boxen/puppet-shortcat.png)](https://travis-ci.org/boxen/puppet-shortcat)
+
 Installs [Shortcat](http://shortcatapp.com/).
 
 ## Usage
